@@ -1,0 +1,11 @@
+node_modules/
+.env
+
+public/*
+!public/contentunit/
+!public/error/
+!public/evaluationunit/
+!public/themes/
+!public/upct-themes/
+!public/la
+!public/gamification
