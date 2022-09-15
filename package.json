@@ -8,8 +8,8 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Centro de Producción de Contenidos Digitales, Universidad Politécnica de Cartagena",
+  "license": "AGPL-3.0 license",
   "dependencies": {
     "axios": "^0.24.0",
     "cookie-parser": "^1.4.6",
